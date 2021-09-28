@@ -4,6 +4,7 @@ import 'package:flutter/painting.dart';
 import 'package:flutter/rendering.dart';
 
 class ItemProduct extends StatelessWidget {
+  // new widget
   final Producto? itemProduct;
   const ItemProduct({
     Key? key,
